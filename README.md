@@ -2,45 +2,56 @@
 <img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+# Professional Resume
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+My professional resume website built with Next.js, React, TypeScript, and Tailwind CSS. View it live at [reokweb.dev](https://reokweb.dev).
 
-# Features
+## Tech Stack
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+- Next.js 14
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Magic UI
 
-# Getting Started Locally
+## Features
 
-1. Clone this repository to your local machine:
+- Modern, responsive design
+- Dark mode support
+- Easy content management through a single config file
+- Built with best practices and performance in mind
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+## Local Development
 
-2. Move to the cloned directory
+1. Clone the repository:
+```bash
+git clone https://github.com/reokdev/resume.git
+```
 
-   ```bash
-   cd portfolio
-   ```
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
 
-3. Install dependencies:
+3. Start the development server:
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-   ```bash
-   pnpm install
-   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
-4. Start the local Server:
+## Customization
 
-   ```bash
-   pnpm dev
-   ```
+Update the resume content in `src/data/resume.tsx` to customize with your own information.
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+## Contact
+
+For any questions or feedback, reach out at hello@reokweb.dev
 
 # License
 
