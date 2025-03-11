@@ -198,7 +198,7 @@ export default async function Page() {
                 Contact
               </div>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                Let's Connect
+                Let&apos;s Connect
               </h2>
               <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Feel free to reach out through LinkedIn or email using the icons in the navigation bar below.
